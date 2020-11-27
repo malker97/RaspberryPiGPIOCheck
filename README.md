@@ -8,7 +8,7 @@ git clone https://github.com/malker97/RaspberryPiGPIOCheck.git
 ```
 ## 2.Connnect Ur sensor to GPIO PIN (Defult is 4)
 Depend on ur senser
-## 3. Star this Python3 Project
+## 3. Start this Python3 Project
 ```bash
 python3 sensertest.py
 ```
@@ -55,7 +55,7 @@ git clone https://github.com/malker97/RaspberryPiGPIOCheck.git
 ```
 ## 2.Connnect Ur sensor to GPIO PIN (Defult is 4)
 Depend on ur senser
-## 3. Star this Python3 Project
+## 3. Start this Python3 Project
 change sensertest.py level to sudo
 ```bash
 sudo chmod 777 sensertest.py
